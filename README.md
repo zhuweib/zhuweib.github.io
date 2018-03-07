@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # zhuweib
 
 > A Vue.js project
@@ -28,3 +29,9 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# 社区练习
+
+新手做的练习
+2018-03-07开始
+>>>>>>> 4340c13ffab92b7f69acfddb34bd3d4fda54ec70
